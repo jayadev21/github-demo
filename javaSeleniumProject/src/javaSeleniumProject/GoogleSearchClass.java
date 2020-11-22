@@ -17,7 +17,7 @@ public class GoogleSearchClass {
 		//System.out.println(driver.findElement(By.xpath("//*[@jsname='l4eHX']")).getText());
 		driver.findElement(By.xpath("//input[@type='email']")).sendKeys("jdevreddy2020@gmail.com");
 		driver.findElement(By.xpath("//*[@id=\"identifierNext\"]/div/button/div[2]")).click();
-		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("Hyderabad@00");
+		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("XXXXXXXXXXXX");
 		driver.findElement(By.xpath("//*[@id=\"passwordNext\"]/div/button/div[2]")).click();
 		
 		
